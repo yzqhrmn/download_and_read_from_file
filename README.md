@@ -1,2 +1,5 @@
-# download_and_read_data_from_internet
-Testing downloading and reading downloaded file from internet. 
+# files_download
+
+Flutter file download example project.
+
+![Image description](https://github.com/lotekbard/flutter-file-download-example/blob/master/screenshots/android/file_download_demo.gif)
